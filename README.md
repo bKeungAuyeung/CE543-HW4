@@ -3,6 +3,7 @@
 Repo for CE443/543: Introduction to Geotechnical Earthquake Design, Homework Assignment 4 as 
 taught by Dr. Arash Khosravifar in Winter 2026 at Portland State University.
 
-{focus of hw4}
+Homework Assignment 4 focuses on using ASCE 7-10 to create spectra used in design and the 
+use of MATLAB to analyse centrifuge test data.
 
-## This assignment is a work-in-progress. No grade can be reported.
+## A score of 30/30 was earned on this assignment.
